@@ -1,2 +1,2 @@
 # Lab2_web
-Lab 2 in Github Web
+Clone, add, commit and push files
